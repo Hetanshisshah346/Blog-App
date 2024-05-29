@@ -1,0 +1,22 @@
+.bg {
+  background-color: #FCF5F5;
+}
+
+
+.bg-card{
+  background-color: #aa8888;
+}
+
+.bg-card:hover{
+  background-color: #c2a9a9;
+}
+
+.card-hover:hover{
+  background-color: #f3ecec;
+}
+
+.bg-color{
+  background-color: rgb(134, 113, 113);
+}
+
+
